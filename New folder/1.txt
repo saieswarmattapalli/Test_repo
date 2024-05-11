@@ -11,3 +11,5 @@ In recent years, electric cas have gned sai branch popularity due to their envir
 The interior of a cr is another area where design and functionality converge. From luxurious leather upholstery and premium materials to intuitive infotainment systems and driver-centric controls, the interior space of a car is designed to provide comfort, convenience, and connectivity for passengers.
 
 Beyond individual cars, the automotive industry encompasses a vast ecosystem of manufacturers, suppliers, dealerships, and aftermarket businesses. Global competition, technological innovation, and shifting consumer preferences drive constant evolution within the industry, leading to the introduction of new models, the adoption of alternative powertrains, and the integration of connected and autonomous technologies.
+
+--branch has been merged
