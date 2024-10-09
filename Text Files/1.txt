@@ -13,3 +13,6 @@ The interior of a cr is another area where design and functionality converge. Fr
 Beyond individual cars, the automotive industry encompasses a vast ecosystem of manufacturers, suppliers, dealerships, and aftermarket businesses. Global competition, technological innovation, and shifting consumer preferences drive constant evolution within the industry, leading to the introduction of new models, the adoption of alternative powertrains, and the integration of connected and autonomous technologies.
 
 --branch has been merged
+file is modified by the sai eswar
+file is modified by the rushi_vardhan
+
